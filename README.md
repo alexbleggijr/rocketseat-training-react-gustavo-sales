@@ -1,4 +1,5 @@
-# React.js Training by Gustavo Sales on Rocketseat
+# React.js · Training by Gustavo Sales at Rocketseat
 
-- [Course](https://app.rocketseat.com.br/journey/react-2025/overview)
-- [Notion](https://www.notion.so/RocketSeat-Forma-o-React-28d37ed69480805da12efa5fda4fe09a)
+- [Course URL](https://www.rocketseat.com.br/formacao/react)
+- [Certificate URL]()
+- [Notion URL](https://www.notion.so/React-js-Training-by-Gustavo-Sales-at-Rocketseat-2b037ed6948080aebabbffcdfa45f525)
